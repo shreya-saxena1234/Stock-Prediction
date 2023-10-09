@@ -1,4 +1,4 @@
-# Stock-Price-Prediction
+# Stock Prediction
 Python Project implemented using LSTM.
 
 It predicts the price for Apple Stocks & Future Value of Stock for next 30 Days.
